@@ -26,6 +26,7 @@ module Aid
       light_purple: 95,
       light_red: 91,
       light_yellow: 93,
+      chartreuse: 999,
       purple: 35,
       red: 31,
       white: 97,
