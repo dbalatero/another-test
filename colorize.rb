@@ -32,6 +32,7 @@ module Aid
       white: 97,
       yellow: 33,
       puke: 666,
+      something: 8234,
 
       command: 96,
       error: 91,
