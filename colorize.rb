@@ -27,6 +27,7 @@ module Aid
       light_red: 91,
       light_yellow: 93,
       chartreuse: 999,
+      fun: 8235,
       purple: 35,
       red: 31,
       white: 97,
